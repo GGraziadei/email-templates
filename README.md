@@ -1,3 +1,3 @@
-# Free Email Templates by Colorlib.
+# Free Email Templates.
 
 Free HTML email templates for Mailchimp and other emails services
